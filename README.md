@@ -105,6 +105,10 @@ Fonts do **not** need administrator rights to **install**, but they are **needed
     "Portable version", which is different from `extras/windowsdesktop-runtime`. Copied from [`dorado/dotnet-desktop-runtime`](https://github.com/chawyehsu/dorado/blob/master/bucket/dotnet-desktop-runtime.json).
 
 -   [evernote](https://evernote.com/) \*
+-   [firefox-tete009 * / firefox-tete009-portable](http://www1.plala.or.jp/tete009/en-US/software.html#FIREFOX)
+
+    Portable mode may interfere with other applications, such as MacType's font substitution feature.
+
 -   [fontloadersub](https://github.com/yzwduck/FontLoaderSub)
 -   [listary-beta](https://www.listary.com/beta) # \*
 
@@ -133,6 +137,6 @@ Fonts do **not** need administrator rights to **install**, but they are **needed
 -   [fluent-reader](https://github.com/kidonng/sushi/commit/5c2c1adbfa27969bda530c2a3123da970320d702): Available in `extras`
 -   [naiveproxy](https://github.com/kidonng/sushi/commit/64a31947c2b5c7bfca9107af56cfc62078cbec61): Available in `main`
 -   [scoop-completion](https://github.com/kidonng/sushi/commit/dfa918bc25e7e168ecdc7817f5b0171042368e73): Available in [`Ash258`](https://github.com/Ash258/Scoop-Ash258)
--   [qv2ray-plugin-command-beta / qv2ray-plugin-ssr-beta / qv2ray-plugin-trojan-beta](https://github.com/kidonng/sushi/commit/d1ddd4aa4161d314294226cfd4bf262cde492632): Beta version no longer exists
+-   [qv2ray-plugin-command-beta / qv2ray-plugin-ssr-beta / qv2ray-plugin-trojan-beta](https://github.com/kidonng/sushi/commit/73f75a2ab0a2f0374e6478fa8f9a3ef86bb61598): Beta version no longer exists
 
 </details>
